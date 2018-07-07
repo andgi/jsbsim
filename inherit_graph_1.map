@@ -1,0 +1,88 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classJSBSim_1_1FGJSBBase.html" title="JSBSim Base class. " alt="" coords="182,436,277,463"/>
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGBallonet.html" title="Models a ballonet inside a gas cell. " alt="" coords="389,411,475,437"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGCondition.html" title="Encapsulates a condition, which is used in parts of JSBSim including switches. " alt="" coords="385,461,479,488"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGFCSComponent.html" title="Base class for JSBSim Flight Control System Components. " alt="" coords="365,512,499,539"/>
+<area shape="rect" id="node21" href="$classJSBSim_1_1FGFDMExec.html" title="Encapsulates the JSBSim simulation executive. " alt="" coords="383,765,481,792"/>
+<area shape="rect" id="node22" href="$classJSBSim_1_1FGfdmSocket.html" title="Encapsulates an object that enables JSBSim to communicate via socket (input and/or output)..." alt="" coords="381,816,483,843"/>
+<area shape="rect" id="node23" href="$classJSBSim_1_1FGForce.html" title="Utility class that aids in the conversion of forces between coordinate systems and calculation of mom..." alt="" coords="395,715,469,741"/>
+<area shape="rect" id="node31" href="$classJSBSim_1_1FGFunction.html" title="Represents a mathematical function. " alt="" coords="387,1309,477,1336"/>
+<area shape="rect" id="node33" href="$classJSBSim_1_1FGInitialCondition.html" title="Initializes the simulation run. " alt="" coords="369,1005,495,1032"/>
+<area shape="rect" id="node34" href="$classJSBSim_1_1FGLocation.html" title="FGLocation holds an arbitrary location in the Earth centered Earth fixed reference frame (ECEF)..." alt="" coords="387,5,477,32"/>
+<area shape="rect" id="node35" href="$classJSBSim_1_1FGModelFunctions.html" title="The model functions class provides the capability for loading, storing, and executing arbitrary funct..." alt="" coords="366,955,498,981"/>
+<area shape="rect" id="node70" href="$classJSBSim_1_1FGQuaternion.html" title="Models the Quaternion representation of rotations. " alt="" coords="381,56,483,83"/>
+<area shape="rect" id="node71" href="$classJSBSim_1_1FGScript.html" title="Encapsulates the JSBSim scripting capability. " alt="" coords="395,107,469,133"/>
+<area shape="rect" id="node72" href="$classJSBSim_1_1FGSensorOrientation.html" title="Encapsulates a SensorOrientation capability for a sensor. " alt="" coords="568,5,712,32"/>
+<area shape="rect" id="node73" href="$classJSBSim_1_1FGTable.html" title="Lookup table class. " alt="" coords="396,1360,468,1387"/>
+<area shape="rect" id="node74" href="$classJSBSim_1_1FGTank.html" title="Models a fuel tank. " alt="" coords="397,157,467,184"/>
+<area shape="rect" id="node75" href="$classJSBSim_1_1FGTransmission.html" title="Utility class that handles power transmission in conjunction with FGRotor. " alt="" coords="373,208,491,235"/>
+<area shape="rect" id="node76" href="$classJSBSim_1_1FGTrim.html" title="The trimming routine for JSBSim. " alt="" coords="399,259,465,285"/>
+<area shape="rect" id="node77" href="$classJSBSim_1_1FGTrimAxis.html" title="FGTrimAxis" alt="" coords="386,309,478,336"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGActuator.html" title="Encapsulates an Actuator component for the flight control system. " alt="" coords="595,461,685,488"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGAngles.html" title="Provides a way to determine the smallest included angle. " alt="" coords="600,512,680,539"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGDeadBand.html" title="Models a deadband object. " alt="" coords="589,563,691,589"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGDistributor.html" title="Encapsulates a distributor for the flight control system. " alt="" coords="590,613,690,640"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGFCSFunction.html" title="Models a FCSFunction object. " alt="" coords="581,56,699,83"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGFilter.html" title="Encapsulates a filter for the flight control system. " alt="" coords="605,107,675,133"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGGain.html" title="Encapsulates a gain component for the flight control system. " alt="" coords="607,157,673,184"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGKinemat.html" title="Encapsulates a kinematic (mechanical) component for the flight control system. " alt="" coords="596,208,684,235"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGPID.html" title="Encapsulates a PID control component for the flight control system. " alt="" coords="609,259,671,285"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGSensor.html" title="Encapsulates a Sensor component for the flight control system. " alt="" coords="599,664,681,691"/>
+<area shape="rect" id="node18" href="$classJSBSim_1_1FGSummer.html" title="Models a flight control system summing component. " alt="" coords="595,309,685,336"/>
+<area shape="rect" id="node19" href="$classJSBSim_1_1FGSwitch.html" title="Encapsulates a switch for the flight control system. " alt="" coords="600,360,680,387"/>
+<area shape="rect" id="node20" href="$classJSBSim_1_1FGWaypoint.html" title="Models a Waypoint object. " alt="" coords="593,411,687,437"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGAccelerometer.html" title="Encapsulates a Accelerometer component for the flight control system. " alt="" coords="771,51,895,77"/>
+<area shape="rect" id="node16" href="$classJSBSim_1_1FGGyro.html" title="Encapsulates a Gyro component for the flight control system. " alt="" coords="799,145,867,172"/>
+<area shape="rect" id="node17" href="$classJSBSim_1_1FGMagnetometer.html" title="Encapsulates a magnetometer component for the flight control system. " alt="" coords="772,284,895,311"/>
+<area shape="rect" id="node24" href="$classJSBSim_1_1FGExternalForce.html" title="FGExternalForce" alt="" coords="579,765,701,792"/>
+<area shape="rect" id="node25" href="$classJSBSim_1_1FGGasCell.html" title="Models a gas cell. " alt="" coords="597,816,683,843"/>
+<area shape="rect" id="node26" href="$classJSBSim_1_1FGLGear.html" title="Landing gear model. " alt="" coords="603,867,677,893"/>
+<area shape="rect" id="node27" href="$classJSBSim_1_1FGThruster.html" title="Base class for specific thrusting devices such as propellers, nozzles, etc. " alt="" coords="596,715,684,741"/>
+<area shape="rect" id="node28" href="$classJSBSim_1_1FGNozzle.html" title="Models a rocket nozzle. " alt="" coords="793,613,874,640"/>
+<area shape="rect" id="node29" href="$classJSBSim_1_1FGPropeller.html" title="FGPropeller models a propeller given the tabular data for Ct (thrust) and Cp (power), indexed by the advance ratio &quot;J&quot;. " alt="" coords="788,512,879,539"/>
+<area shape="rect" id="node30" href="$classJSBSim_1_1FGRotor.html" title="Models a helicopter rotor. " alt="" coords="797,563,869,589"/>
+<area shape="rect" id="node32" href="$classJSBSim_1_1FGTemplateFunc.html" title="FGTemplateFunc" alt="" coords="579,1652,701,1679"/>
+<area shape="rect" id="node36" href="$classJSBSim_1_1FGEngine.html" title="Base class for all engines. " alt="" coords="600,1601,680,1628"/>
+<area shape="rect" id="node42" href="$classJSBSim_1_1FGModel.html" title="Base class for all scheduled JSBSim models. " alt="" coords="603,1069,677,1096"/>
+<area shape="rect" id="node37" href="$classJSBSim_1_1FGElectric.html" title="Models an electric motor. " alt="" coords="791,1627,875,1653"/>
+<area shape="rect" id="node38" href="$classJSBSim_1_1FGPiston.html" title="Models a Supercharged Piston engine. " alt="" coords="795,1677,872,1704"/>
+<area shape="rect" id="node39" href="$classJSBSim_1_1FGRocket.html" title="Models a generic rocket engine. " alt="" coords="792,1728,875,1755"/>
+<area shape="rect" id="node40" href="$classJSBSim_1_1FGTurbine.html" title="This class models a turbine engine. " alt="" coords="792,1779,875,1805"/>
+<area shape="rect" id="node41" href="$classJSBSim_1_1FGTurboProp.html" title="Turboprop engine model. " alt="" coords="783,1576,883,1603"/>
+<area shape="rect" id="node43" href="$classJSBSim_1_1FGAccelerations.html" title="Handles the calculation of accelerations. " alt="" coords="774,1171,893,1197"/>
+<area shape="rect" id="node44" href="$classJSBSim_1_1FGAerodynamics.html" title="Encapsulates the aerodynamic calculations. " alt="" coords="772,1221,895,1248"/>
+<area shape="rect" id="node45" href="$classJSBSim_1_1FGAircraft.html" title="Encapsulates an Aircraft and its systems. " alt="" coords="792,1272,875,1299"/>
+<area shape="rect" id="node46" href="$classJSBSim_1_1FGAtmosphere.html" title="Models an empty, abstract base atmosphere class. " alt="" coords="778,1323,889,1349"/>
+<area shape="rect" id="node50" href="$classJSBSim_1_1FGAuxiliary.html" title="Encapsulates various uncategorized scheduled functions. " alt="" coords="788,1373,879,1400"/>
+<area shape="rect" id="node51" href="$classJSBSim_1_1FGBuoyantForces.html" title="Encapsulates the Buoyant forces calculations. " alt="" coords="769,1424,897,1451"/>
+<area shape="rect" id="node52" href="$classJSBSim_1_1FGExternalReactions.html" title="Manages the external and/or arbitrary forces and moments. " alt="" coords="760,1475,907,1501"/>
+<area shape="rect" id="node53" href="$classJSBSim_1_1FGFCS.html" title="Encapsulates the Flight Control System (FCS) functionality. " alt="" coords="800,1525,867,1552"/>
+<area shape="rect" id="node54" href="$classJSBSim_1_1FGGroundReactions.html" title="Manages ground reactions modeling. " alt="" coords="763,664,904,691"/>
+<area shape="rect" id="node55" href="$classJSBSim_1_1FGInertial.html" title="Models inertial forces (e.g. " alt="" coords="794,715,873,741"/>
+<area shape="rect" id="node56" href="$classJSBSim_1_1FGInput.html" title="Handles simulation input. " alt="" coords="799,765,868,792"/>
+<area shape="rect" id="node57" href="$classJSBSim_1_1FGInputType.html" title="Abstract class to provide functions generic to all the input directives. " alt="" coords="784,816,883,843"/>
+<area shape="rect" id="node60" href="$classJSBSim_1_1FGMassBalance.html" title="Models weight, balance and moment of inertia information. " alt="" coords="774,867,893,893"/>
+<area shape="rect" id="node61" href="$classJSBSim_1_1FGOutput.html" title="Handles simulation output. " alt="" coords="794,917,873,944"/>
+<area shape="rect" id="node62" href="$classJSBSim_1_1FGOutputType.html" title="Abstract class to provide functions generic to all the output directives. " alt="" coords="779,968,887,995"/>
+<area shape="rect" id="node67" href="$classJSBSim_1_1FGPropagate.html" title="Models the EOM and integration/propagation of state. " alt="" coords="784,1019,883,1045"/>
+<area shape="rect" id="node68" href="$classJSBSim_1_1FGPropulsion.html" title="Propulsion management class. " alt="" coords="783,1069,884,1096"/>
+<area shape="rect" id="node69" href="$classJSBSim_1_1FGWinds.html" title="Models atmospheric disturbances: winds, gusts, turbulence, downbursts, etc. " alt="" coords="795,1120,872,1147"/>
+<area shape="rect" id="node47" href="$classJSBSim_1_1FGMars.html" title="Models the Martian atmosphere. " alt="" coords="1001,1272,1071,1299"/>
+<area shape="rect" id="node48" href="$classJSBSim_1_1FGStandardAtmosphere.html" title="Models the 1976 U.S. " alt="" coords="955,1323,1117,1349"/>
+<area shape="rect" id="node49" href="$classJSBSim_1_1MSIS.html" title="MSIS" alt="" coords="1009,1373,1063,1400"/>
+<area shape="rect" id="node58" href="$classJSBSim_1_1FGInputSocket.html" title="Implements the input from a socket. " alt="" coords="981,816,1091,843"/>
+<area shape="rect" id="node59" href="$classJSBSim_1_1FGUDPInputSocket.html" title="Implements a UDP input socket. " alt="" coords="1165,816,1304,843"/>
+<area shape="rect" id="node63" href="$classJSBSim_1_1FGOutputFile.html" title="Abstract class that provide functions that are generic to all the outputs that are directed to a file..." alt="" coords="986,943,1086,969"/>
+<area shape="rect" id="node65" href="$classJSBSim_1_1FGOutputSocket.html" title="Implements the output to a socket. " alt="" coords="976,993,1096,1020"/>
+<area shape="rect" id="node64" href="$classJSBSim_1_1FGOutputTextFile.html" title="Implements the output to a human readable text file. " alt="" coords="1171,943,1298,969"/>
+<area shape="rect" id="node66" href="$classJSBSim_1_1FGOutputFG.html" title="Implements the output to a FlightGear socket. " alt="" coords="1186,993,1283,1020"/>
+<area shape="rect" id="node78" href="$classJSBSim_1_1FGSurface.html" title="Base class for all surface properties. " alt="" coords="389,879,475,905"/>
+<area shape="rect" id="node80" href="$classJSBSim_1_1Element.html" title="Element" alt="" coords="194,1436,265,1463"/>
+<area shape="rect" id="node81" href="$classJSBSim_1_1FGGroundCallback.html" title="This class provides callback slots to get ground specific data. " alt="" coords="163,1309,296,1336"/>
+<area shape="rect" id="node83" href="$classJSBSim_1_1FGParameter.html" title="Represents various types of parameters. " alt="" coords="179,1385,279,1412"/>
+<area shape="rect" id="node82" href="$classJSBSim_1_1FGDefaultGroundCallback.html" title="FGDefaultGroundCallback" alt="" coords="345,1259,519,1285"/>
+<area shape="rect" id="node84" href="$classJSBSim_1_1FGPropertyValue.html" title="Represents a property value which can use late binding. " alt="" coords="371,1461,493,1488"/>
+<area shape="rect" id="node86" href="$classJSBSim_1_1FGRealValue.html" title="Represents a real value. " alt="" coords="382,1512,482,1539"/>
+<area shape="rect" id="node87" href="$classJSBSim_1_1FGSpoolUp.html" title="FGSpoolUp" alt="" coords="387,1411,477,1437"/>
+<area shape="rect" id="node85" href="$classJSBSim_1_1FGFunctionValue.html" title="Represents a property value on which a function is applied. " alt="" coords="579,1703,701,1729"/>
+</map>

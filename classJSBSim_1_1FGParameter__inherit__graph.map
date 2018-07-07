@@ -1,0 +1,9 @@
+<map id="FGParameter" name="FGParameter">
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFunction.html" title="Represents a mathematical function. " alt="" coords="25,155,116,181"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGPropertyValue.html" title="Represents a property value which can use late binding. " alt="" coords="148,155,271,181"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGRealValue.html" title="Represents a real value. " alt="" coords="295,155,395,181"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGSpoolUp.html" title="FGSpoolUp" alt="" coords="420,155,511,181"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGTable.html" title="Lookup table class. " alt="" coords="535,155,607,181"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGTemplateFunc.html" title="FGTemplateFunc" alt="" coords="5,229,128,256"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGFunctionValue.html" title="Represents a property value on which a function is applied. " alt="" coords="152,229,275,256"/>
+</map>
